@@ -18,9 +18,9 @@ It supports **any job role**, **any location**, **salary filtering**, **experien
 ## Installation
 
 ```bash
-git clone https://github.com/YOURNAME/jobbot
+git clone https://github.com/Anivesh193/jobbot
 cd jobbot
-pip install .
+pip install
 ```
 
 ---
@@ -94,6 +94,7 @@ JobBot will scrape relevant jobs and send alerts accordingly.
 ## License
 
 MIT
+
 
 
 
